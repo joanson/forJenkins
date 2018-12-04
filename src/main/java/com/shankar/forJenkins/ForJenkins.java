@@ -15,7 +15,7 @@ public class ForJenkins {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Get life");
-		System.out.println("");
+		System.out.println("This is my time to get to do things...");
 
 	}
 
